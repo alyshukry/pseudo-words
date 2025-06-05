@@ -62,5 +62,5 @@ generatePseudoWords(5, 3); // Possible output: "matosis ocinate bleling"
 <br>
 
 **License:** MIT
-
+<br>
 **Contributing:** Contributions welcome! Please feel free to submit a Pull Request.
