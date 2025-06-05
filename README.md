@@ -47,6 +47,7 @@ Example flow:
 4. Next: match "ep" to sequences → choose and append next letter
 5. Continue until desired length
 6. Append suitable ending fragment
+<br>
 
 > 💡 **Fun fact:** The language of the sample text affects the output of the script, if you use a german sample text german pseudo-words will be generated.
 <br>
