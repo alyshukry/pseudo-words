@@ -49,6 +49,7 @@ Example flow:
 6. Append suitable ending fragment
 
 > 💡 **Fun fact:** The language of the sample text affects the output of the script, if you use a german sample text german pseudo-words will be generated.
+<br>
 
 ## 🎮 Usage
 `generatePseudoWords(iterations, amount)` 
