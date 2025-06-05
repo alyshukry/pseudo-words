@@ -20,7 +20,7 @@ It requires a large sample of text, which is split into individual words. From e
 
 These fragments are stored in separate files along with their frequencies. For instance:
 
-```json
+```js
 // Initial two-letter prefixes  "he":  10,  "go":  4,
 // Three-letter sequences  "hel":  3,  "god":  20,
 // Word endings  "rings":  12,  "nners":  15,` 
